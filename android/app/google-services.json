@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910658433708",
+    "project_id": "phonenoauth-c2b90",
+    "storage_bucket": "phonenoauth-c2b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910658433708:android:cf7ae28ca036d0aa832509",
+        "android_client_info": {
+          "package_name": "com.example.mobile_login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910658433708-i6qpktm0b7ton4b3i3r1bpkcj02dq1nk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqH27fG5CIA-5sfscjADykSeN4IOKmSnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910658433708-i6qpktm0b7ton4b3i3r1bpkcj02dq1nk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
